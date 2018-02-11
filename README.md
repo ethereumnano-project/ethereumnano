@@ -3,8 +3,8 @@ EthereumNano integration/staging tree
 
 http://www.ethereumnano.org
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 EthereumNano Developers
+Copyright (c) 2009-2018 Bitcoin Developers
+Copyright (c) 2011-2018 EthereumNano Developers
 
 What is EthereumNano?
 ----------------
