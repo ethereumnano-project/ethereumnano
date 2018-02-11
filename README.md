@@ -12,7 +12,7 @@ What is EthereumNano?
 EthereumNano is a lite version using scrypt as a proof-of-work algorithm.
  - 5 minute block targets
  - subsidy halves in 500k blocks
- - ~1 000 000 total coins
+ - ~1 000 000 000 total coins
  - 1000 coins per block
 
 For more information, as well as an immediately useable, binary version of
